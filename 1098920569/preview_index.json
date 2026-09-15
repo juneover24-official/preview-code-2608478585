@@ -1,7 +1,7 @@
 {
   "qq_number": "2608478585",
   "group_number": "1098920569",
-  "updated_at": "2026-09-15T14:26:59+00:00",
+  "updated_at": "2026-09-15T17:04:38+00:00",
   "skins": [
     {
       "name": "ML菠萝鱼罐头2",
@@ -28,6 +28,13 @@
       "thumb": "ML未弥散的雾2.bds_py_26_light_thumb.png",
       "full": "ML未弥散的雾2.bds_py_26_light_thumb.png",
       "file_id": "2c251ad6d1990cf375270965f884a808"
+    },
+    {
+      "name": "ML未弥散的雾2",
+      "file": "ML未弥散的雾2.bdi",
+      "thumb": "ML未弥散的雾2.bdi_py_26_light_thumb.png",
+      "full": "ML未弥散的雾2.bdi_py_26_light_thumb.png",
+      "file_id": "518b3f320b83e4fb43890565e2899252"
     }
   ]
 }
