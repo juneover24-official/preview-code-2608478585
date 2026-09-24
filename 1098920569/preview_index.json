@@ -1,7 +1,7 @@
 {
   "qq_number": "2608478585",
   "group_number": "1098920569",
-  "updated_at": "2026-09-24T08:58:51+00:00",
+  "updated_at": "2026-09-24T08:59:02+00:00",
   "skins": [
     {
       "name": "ML菠萝鱼罐头2",
@@ -56,6 +56,13 @@
       "thumb": "ML如影城1.bds_py_26_light_thumb.png",
       "full": "ML如影城1.bds_py_26_light_thumb.png",
       "file_id": "098fe31d3bf4ce51f8f78c12cb3386b4"
+    },
+    {
+      "name": "茉莉の如影城2",
+      "file": "ML如影城2.bdi",
+      "thumb": "ML如影城2.bdi_py_26_light_thumb.png",
+      "full": "ML如影城2.bdi_py_26_light_thumb.png",
+      "file_id": "13dcc53f895ef3b56efe16d4c96802b2"
     }
   ]
 }
